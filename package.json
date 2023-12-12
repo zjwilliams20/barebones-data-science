@@ -1,0 +1,32 @@
+{
+  "name": "data-science-toolkit",
+  "displayName": "Data Science Toolkit",
+  "description": "A collection of various packages geared toward data science applications.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "MathWorks.language-matlab", 
+    "ms-vscode.cpptools", 
+    "ms-python.python", 
+    "ms-python.vscode-pylance", 
+    "ms-toolsai.jupyter", 
+    "ms-toolsai.jupyter-keymap", 
+    "ms-toolsai.jupyter-renderers", 
+    "ms-python.black-formatter", 
+    "ms-python.flake8", 
+    "ms-python.isort", 
+    "redhat.vscode-xml", 
+    "ms-azuretools.vscode-docker",
+    "ms-vscode-remote.remote-containers",
+    "ms-vscode-remote.remote-ssh",
+    "peterj.proto",
+    "eamodio.gitlens", 
+    "mhutchie.git-graph", 
+    "tamasfe.even-better-toml"
+  ]
+}
