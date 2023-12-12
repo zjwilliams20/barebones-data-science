@@ -1,6 +1,6 @@
 {
-  "name": "data-science-toolkit",
-  "displayName": "Data Science Toolkit",
+  "name": "bb-data-science-toolkit",
+  "displayName": "Barebones Data Science Toolkit",
   "description": "A collection of various packages geared toward data science applications.",
   "version": "0.0.1",
   "engines": {
