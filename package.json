@@ -2,6 +2,7 @@
   "name": "bb-data-science-toolkit",
   "displayName": "Barebones Data Science Toolkit",
   "description": "A collection of various packages geared toward data science applications.",
+  "repository": "https://github.com/zjwilliams20/barebones-data-science-vscode",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.85.0"
